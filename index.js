@@ -1,6 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click',function (){
-    alert('sabia que ibas a decir que si')
+    alert('sabia que y vas a decir que si')
 });
 const noBtn = document.querySelector('#noBtn');
 noBtn.addEventListener('mouseover' , function (){
