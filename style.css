@@ -2,12 +2,13 @@
     margin: 0;
 }
 .contenedor{
-    background: rgb(90, 0, 100);
+    background: rgb(0, 0, 100);
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
 p{
+    color: #fff;
     font-size: xx-large;
     padding: 15%;
 }
