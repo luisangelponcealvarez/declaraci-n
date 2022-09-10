@@ -1,6 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click',function (){
-    alert('luis angel ponce tedice que sabia que y vas a decir que si')
+    alert('luis angel ponce te dice que sabia que ivas a decir que si')
 });
 const noBtn = document.querySelector('#noBtn');
 noBtn.addEventListener('mouseover' , function (){
